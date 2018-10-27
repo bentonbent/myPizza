@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">myPizza</string>
+    <string name="order">My Order</string>
+
+    <string-array name="toppings">
+        <item>pepperoni</item>
+        <item>pineapple</item>
+        <item>olives</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+
+    <string name="pizzaSize">Size</string>
+
+    <string name="pizzaCrust">Crust</string>
+    <string name="thin">Thin</string>
+    <string name="original">Original</string>
+    <string name="thick">Thick</string>
+
+    <string name="pizzaToppings">Toppings</string>
+    <string name="sausage">Sausage</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="olives">Olives</string>
+    <string name="pepperoni">Pepperoni</string>
+
+    <string name="orderButton">order</string>
+    <string name="summaryButton">summary</string>
+
+    <string name="goOrder">Go to Order</string>
+
 </resources>
